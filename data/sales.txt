@@ -1,0 +1,2 @@
+cashier1,Cake,2,500.0
+cashier1,Cookie,5,250.0
